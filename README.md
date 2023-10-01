@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Miguel Casiano
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I’m interested in AWS Architecture 
+- 🌱 I’m currently learning AWS Software Solutions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me using casmmc3@att.net
 
